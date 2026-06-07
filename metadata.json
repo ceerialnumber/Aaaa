@@ -1,0 +1,6 @@
+{
+  "name": "Activity and Snapshot Log",
+  "description": "A beautiful, responsive lifestyle snapshot and activity logging interface featuring an eye-catching highlights carousel and progress dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
